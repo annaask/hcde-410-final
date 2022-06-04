@@ -1,0 +1,3 @@
+Abstract
+
+In this report, an analysis was performed on the monthly checkouts of the Seattle Public Library, particularly how they relate to item type and item subject over the year or over many years. It was found that item type checkouts may decrease over time, aligning with technological support being unavailable. It was also found that item subject checkouts may increase aligning with historical events, cultural heritage or identity months, and holidays. 
